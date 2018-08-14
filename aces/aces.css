@@ -1,0 +1,10 @@
+body{margin: 0px ;padding: 0px;background-color: grey}
+img.round{border-radius: 50%;margin: auto;width: 300px;position: absolute;
+	margin-left: 38%}
+.V{margin-left: 30%;margin-top: 400px}
+.F{margin-left: 30%;font-size: 50px;font-weight: bold;}
+.M{width: 700px ;margin-left: 27%;border-color: green;margin-top: 100px}
+.P{font-style: italic;font-size: : 40px}
+.IM{border-radius: 50%;width: 100px;margin-left: 30%;margin-top: 100px}
+.TW{border-radius: 50%;width: 100px;margin-left: 15%;margin-top: 100px}
+.UT{border-radius: 50%;width: 100px;margin-left: 15%;margin-top: 100px}
